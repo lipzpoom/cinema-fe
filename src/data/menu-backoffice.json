@@ -1,0 +1,18 @@
+[
+  {
+    "label": "หน้าหลัก",
+    "url": "home"
+  },
+  {
+    "label": "ถอนเงิน",
+    "url": "withdraw"
+  },
+  {
+    "label": "รายการถอนเงิน",
+    "url": "withdraw-list"
+  },
+  {
+    "label": "ตั้งค่า",
+    "url": "setting-system"
+  }
+]
